@@ -30,9 +30,3 @@ export class BoardRepository extends Repository<Board> {
 //   ) {}
 // }
 
-// @Injecatable()
-// export class BoardRepository {
-//    constructor(
-//
-//    )
-//}
