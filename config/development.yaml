@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'kim-yeongseok'
+  password: 'dud159357'
+  synchronize: true
+
+jwt:
+  secret: 'Secret1234'
